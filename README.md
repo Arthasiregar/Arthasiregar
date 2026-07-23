@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Studying **Information Systems** at **Institut Teknologi Del**, Indonesia
-- 💻 Passionate about **Software Development**, **Object-Oriented Programming**, and **iOS Development**
+- 💻 Passionate about **Software Development** and **Object-Oriented Programming**
 - 🌱 Currently learning **Swift & SwiftUI** to build real iOS apps
 - 📍 Based in **Medan, North Sumatra, Indonesia**
 - 📬 Reach me at **arthasiregar10@gmail.com**
@@ -21,7 +21,6 @@
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Tools & Platforms
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
@@ -70,27 +69,4 @@ Analyzed and redesigned inefficient campus permit workflows end-to-end.
 
 ---
 
-## 🌱 Currently Building
-
-```swift
-// My journey into iOS Development
-import SwiftUI
-
-struct ArthaSiregar: View {
-    
-    let skills: [String] = ["Java", "C", "Swift (learning)"]
-    let currentFocus: String = "Building my first iOS app with SwiftUI"
-    let goal: String = "Apple Developer Academy 2027 🍎"
-    
-    var body: some View {
-        VStack {
-            Text("I build things that solve real problems.")
-            Text("Currently: \(currentFocus)")
-            Text("Next stop: \(goal)")
-        }
-    }
-}
-```
-
----
 
