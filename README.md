@@ -2,8 +2,6 @@
 
 ### Information Systems Student · Aspiring iOS Developer · Problem Solver
 
-> *"I don't just analyze systems — I build them."*
-
 ---
 
 ## 🙋‍♂️ About Me
