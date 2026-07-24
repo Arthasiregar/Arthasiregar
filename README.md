@@ -1,6 +1,6 @@
 # Hi there, I'm Artha Liebe Siregar 👋
 
-### Information Systems Student · Aspiring iOS Developer · Problem Solver
+### Information Systems Student
 
 ---
 
