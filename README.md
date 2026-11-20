@@ -7,10 +7,9 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Studying **Information Systems** at **Institut Teknologi Del**, Indonesia
-- 💻 Passionate about **Software Development** and **Object-Oriented Programming**
-- 🌱 Currently learning **Swift & SwiftUI** to build real iOS apps
+- 💻 Passionate about **Software Development** 
 - 📍 Based in **Medan, North Sumatra, Indonesia**
-- 📬 Reach me at **arthasiregar10@gmail.com**
+- 📬 Reach me at **arthaliebe06@gmail.com**
 
 ---
 
